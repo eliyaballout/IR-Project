@@ -5,7 +5,7 @@ File explanation and how to use it:<br><br>
 
 ## 1. Inverted_Index.py
 
-Inverted inde for body, titles, anchors of wiki pages. Also, contains MultiFileWriter and MultiFileReader classes, writing/reading to/from GCP bucket all postings and postings locations from current inverted index
+Inverted index for body, titles, anchors of wiki pages. Also, contains MultiFileWriter and MultiFileReader classes, writing/reading to/from GCP bucket all postings and postings locations from current inverted index
 <br><br>
 
 
