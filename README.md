@@ -1,11 +1,11 @@
 # ***Wiki Search Engine***
 
-The goal of this project is to build a search engine that utilizes Wikipedia data, utilizing techniques such as cosine similarity and tf-idf. It is composed of several modules, each responsible for a specific aspect of the search engine's functionality.<br>
+The goal of this project is to build a search engine that utilizes Wikipedia data, utilizing techniques such as cosine similarity and TF-IDF. It is composed of several modules, each responsible for a specific aspect of the search engine's functionality.<br>
 File explanation and how to use it:<br><br>
 
 ## 1. Inverted_Index.py
 
-Inverted index for body, titles, anchors of wiki pages. Also, contains MultiFileWriter and MultiFileReader classes, writing/reading to/from GCP bucket all postings and postings locations from current inverted index
+Inverted index for body, titles, anchors of wiki pages. Also, contains MultiFileWriter and MultiFileReader classes, writing/reading to/from GCP bucket all postings and postings locations from current inverted index.
 <br><br>
 
 
